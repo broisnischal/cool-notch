@@ -1,0 +1,10 @@
+# SwiftPM build output (includes the assembled .app)
+.build/
+.swiftpm/
+*.app
+
+# macOS
+.DS_Store
+
+# Local Claude Code / tooling state
+.claude/
